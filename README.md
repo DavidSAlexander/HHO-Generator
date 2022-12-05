@@ -1,5 +1,5 @@
 # HHO-Generator
-An NodeMCU (ESP32) based HHO Generator system.  <br />
+A NodeMCU (ESP32) based HHO Generator system.  <br />
 Purpose : <br />
 Generating HHO gas from water and use it in cleaning cars engines from exhaust deposits.<br />
 Methodology : <br />
