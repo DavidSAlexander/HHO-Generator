@@ -21,6 +21,7 @@ Features Included : <br />
 9- Ability to measure and compare the amount of carbon before and after the clean cycle.<br />
 10- Settings menu added to control the password and parameters of the screen.<br />
 11- Cell and device heat protection.<br />
+12- IR remote control.<br />
 ![fbd3cbfd-83ff-43b4-b591-3752c82f585c](https://user-images.githubusercontent.com/52109142/205632064-f91ae13a-cbdc-4dfb-8299-97824725063f.jpg)
 
 
